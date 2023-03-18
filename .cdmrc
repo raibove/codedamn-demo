@@ -3,3 +3,5 @@ live-reload-browser: false
 terminal-one: |
     npm install
     npm start
+baseImage: html
+defaultView: terminal-editor-browser
