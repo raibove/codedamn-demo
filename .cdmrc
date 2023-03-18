@@ -1,0 +1,5 @@
+tabs: ['src/index.ts']
+live-reload-browser: false
+terminal-one: |
+    npm install
+    npm start
